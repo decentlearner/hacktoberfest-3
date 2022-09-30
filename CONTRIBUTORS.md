@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Decent Learner](https://github.com/decentlearner)
+- Place: India
+- Bio: Web Developer, Competitive Programmer
+- Github: [decentlearner](https://github.com/decentlearner)
